@@ -6,7 +6,7 @@ Select-AzureRmSubscription -SubscriptionId $subscriptionID
 # Create an HDInsight Cluster
 ###########################################
 # Cluster Variables
-$resourceGroupName = "testhdinsight1" # Provide Resource Group Name
+$resourceGroupName = "testhdinsight24" # Provide Resource Group Name
 $storageAccountName = "sahdautomation" # Provide Storage Account Name
 $containerName = "testblob" # Provide Blob Container 
 $storageAccountKey = "H9vHmiyhAQoKzdBR7LvNvDnunnwWNiEsbTHV2z5bEvrAseEoh9CEItik8Q0QRfTmFuXI/uXh4CzHviR55idGkQ=="
